@@ -1,34 +1,35 @@
+<H1>Welcome</H1>
 To run this, start by installing Node.js 4.3.1 (https://nodejs.org/en/)
 
 Once installed open up a shell and cd to this directory
 
 Do the following:
 
-1. Check node is installed by typing: 
+ 1. Check node is installed by typing: 
 
->>node -v 
+  >>node -v 
 
-(you should see 4.3.1)
+  (you should see 4.3.1)
 
-2. Next type:
+ 2. Next type:
 
->>npm install
+  >>npm install
 
-(You should see a lot of output)
+  (You should see a lot of output)
 
-3. Once that is finished type:
+ 3. Once that is finished type:
 
->>npm start
+  >>npm start
 
-(Output should be:
- > tutorial@0.0.0 start C:\Users\Liam\Desktop\tutorial
- > node ./bin/www)
+  (Output should be:
+  > tutorial@0.0.0 start C:\Users\Liam\Desktop\tutorial
+  > node ./bin/www)
 
-4. open a browser and navigate to http://localhost:3000/
+ 4. open a browser and navigate to http://localhost:3000/
 
-You should see a very basic web page
+  You should see a very basic web page
 
-Open app.js, routes.js and public/index.html and try and learn whats going on. 
-Read my comments for help.
+  Open app.js, routes.js and public/index.html and try and learn whats going on. 
+  Read my comments for help.
 
 See http://expressjs.com/ for documentation about express.
