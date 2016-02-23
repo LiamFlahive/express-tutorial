@@ -7,19 +7,19 @@ Do the following:
 
  1. Check node is installed by typing: 
 
-  $:node -v 
+  node -v 
 
   (you should see 4.3.1)
 
  2. Next type:
 
-  $:npm install
+  npm install
 
-  (You should see a lot of output)
+  (Stuff may or may not happen spew out)
 
  3. Once that is finished type:
 
-  $:npm start
+  npm start
 
   Output should be
   
@@ -33,5 +33,9 @@ Do the following:
 
   Open app.js, routes.js and public/index.html and try and learn whats going on. 
   Read my comments for help.
+  
+ **from now on you only need to type "npm start" to run the page**
+ 
+ **press ctrl-c (cmd-c on a mac) in the shell to end the current run**
 
 See http://expressjs.com/ for documentation about express.
