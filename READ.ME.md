@@ -7,23 +7,25 @@ Do the following:
 
  1. Check node is installed by typing: 
 
-  >>node -v 
+  $:node -v 
 
   (you should see 4.3.1)
 
  2. Next type:
 
-  >>npm install
+  $:npm install
 
   (You should see a lot of output)
 
  3. Once that is finished type:
 
-  >>npm start
+  $:npm start
 
-  (Output should be:
-  > tutorial@0.0.0 start C:\Users\Liam\Desktop\tutorial
-  > node ./bin/www)
+  Output should be
+  
+   ">tutorial@0.0.0 start C:\Users\name\Desktop\tutorial"
+   
+   ">node ./bin/www"
 
  4. open a browser and navigate to http://localhost:3000/
 
